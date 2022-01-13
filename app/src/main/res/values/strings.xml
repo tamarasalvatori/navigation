@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">exercicio01_navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="startPageText">Teste agora seus conhecimentos sobre o Android!</string>
+    <string name="Questao1">Qual é o valor taxa de assinatura da Google Play para desenvolvedores?</string>
+    <string name="Questao1_LetraA">a) US$ 25 por ano </string>
+    <string name="Questao1_LetraB">b) US$ 99 por ano</string>
+    <string name="Questao1_LetraC">c) US$ 25 - Taxa única </string>
+    <string name="Questao1_LetraD">d) US$ 299 por ano</string>
+
+    <string name="Questao2">Qual a versão do Android que introduziu o Material Design? </string>
+    <string name="Questao2_LetraA">a) KitKat </string>
+    <string name="Questao2_LetraB">b) Oreo</string>
+    <string name="Questao2_LetraC">c) Jelly Bean </string>
+    <string name="Questao2_LetraD">d) Lollipop</string>
+
+    <string name="Questao3">Qual é sistema operacional mais utilizado no mundo? </string>
+    <string name="Questao3_LetraA">a) Windows </string>
+    <string name="Questao3_LetraB">b) Android</string>
+    <string name="Questao3_LetraC">c) IOS </string>
+    <string name="Questao3_LetraD">d) OS X</string>
+
+    <!-- Botões -->
+    <string name="buttonConcluir">CONCLUIR</string>
+    <string name="buttonConfirmar">CONFIRMAR</string>
+    <string name="buttonIniciar"> Iniciar Quiz</string>
+
+    <!-- Mensagens -->
+    <string name="acertou"> Resposta Correta!</string>
+    <string name="errou"> Resposta Errada!</string>
+    <string name="voltarDesabilitadoMsg"> Não é possível retornar a tela anterior.</string>
+    <string name="responderPerguntaMsg"> Escolha uma opção antes de seguir para a próxima pergunta.</string>
+
+</resources>

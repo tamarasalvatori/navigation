@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.3802083333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_looks_one_24.xml" value="0.3802083333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_looks_two_24.xml" value="0.3802083333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_privacy_tip_24.xml" value="0.3802083333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_verified_user_24.xml" value="0.3802083333333333" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3802083333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="app/src/main/res/layout/fragment_aprovado.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_questao_a.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/fragment_questao_b.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/fragment_questao_c.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/fragment_reprovado.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/fragment_start.xml" value="0.3640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
